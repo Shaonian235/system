@@ -341,7 +341,7 @@
       <workItem from="1576719181543" duration="8510000" />
       <workItem from="1576735064883" duration="5241000" />
       <workItem from="1576746166037" duration="119000" />
-      <workItem from="1576746359431" duration="6217000" />
+      <workItem from="1576746359431" duration="6481000" />
     </task>
     <task id="LOCAL-00001" summary="人员管理系统SpringBoot">
       <created>1576769131674</created>
@@ -350,7 +350,14 @@
       <option name="project" value="LOCAL" />
       <updated>1576769131674</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="人员管理系统SpringBoot">
+      <created>1576769286809</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1576769286809</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -393,18 +400,18 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="627" y="455" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1576687324136" />
-    <state x="453" y="50" width="1013" height="978" key="CommitChangelistDialog2" timestamp="1576769101045">
+    <state x="453" y="50" width="1013" height="978" key="CommitChangelistDialog2" timestamp="1576769283513">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="453" y="50" width="1013" height="978" key="CommitChangelistDialog2/0.0.1920.1080@0.0.1920.1080" timestamp="1576769101045" />
+    <state x="453" y="50" width="1013" height="978" key="CommitChangelistDialog2/0.0.1920.1080@0.0.1920.1080" timestamp="1576769283513" />
     <state x="740" y="294" key="FileChooserDialogImpl" timestamp="1576767667283">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="740" y="294" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1576767667283" />
-    <state x="833" y="430" width="277" height="220" key="Github.ShareDialog" timestamp="1576769187502">
+    <state x="833" y="430" width="277" height="220" key="Github.ShareDialog" timestamp="1576769331626">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="833" y="430" width="277" height="220" key="Github.ShareDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1576769187502" />
+    <state x="833" y="430" width="277" height="220" key="Github.ShareDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1576769331626" />
     <state width="1877" height="269" key="GridCell.Tab.0.bottom" timestamp="1576768699677">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
